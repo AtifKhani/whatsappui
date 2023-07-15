@@ -1,16 +1,11 @@
-# untitled
+Basic Whatsapp Ui:
+Tabs:
+1)Camera
+2)Chats
+3)Status
+4)Calls
+Floating Action Button:
+Images of the Projects:
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230715-101733](https://github.com/AtifKhani/whatsappui/assets/122090200/1e05c502-d5b3-4b90-a254-93a9a9ee4d5b)
